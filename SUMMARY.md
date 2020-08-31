@@ -4,5 +4,10 @@
 * [shell是什么？](untitled.md)
 * [用户管理（级别3下）](yong-hu-guan-li-ji-bie-3-xia.md)
 * [导航文件系统](dao-hang-wen-jian-xi-tong.md)
-* [Untitled](untitled-3.md)
+* [文件操作](untitled-3.md)
+* [命令的使用](ming-ling-de-shi-yong.md)
+* [重定向](zhong-ding-xiang.md)
+* [键盘操作](jian-pan-cao-zuo.md)
+* [扩展与引用](kuo-zhan-yu-yin-yong.md)
+* [Untitled](untitled-2.md)
 
