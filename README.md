@@ -1,29 +1,10 @@
 ---
-description: 这个页面用于测试gitbook与GitHub仓库是否关联成功
+description: 该仓库为个人学习笔记，不具备教程作用
 ---
 
-# 初始页面
+# 前言
 
-## 本页面为gitbook.com在线编辑同步
+正如第一次使用Windows，学习Linux操作系统，要把基础的操作命令，包括文件操作命令、编辑工具的使用、用户管理，这些东西先能灵活使用；其次是Linux下的各种配置，环境变量、网络配置要掌握；后面关于服务器的维护、Linux内核等更深层次的内容暂时不在我目前的学习目标内。
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+Linux的学习是**做中学**，我们能灵活使用Windows就是因为日常的频繁使用，所以Linux的命令虽然多，但不必都记住，有需要的话可以使用[Linux命令搜索](https://wangchujiang.com/linux-command)快速查询。
 
