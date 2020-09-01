@@ -61,7 +61,7 @@ shell会话有两种类型，分别为`login shell`会话和`non-login shell`会
 **login shell 的启动文件**
 
 | 文件 | 说明 |
-| :--- | :--- |
+| :---: | :---: |
 | /etc/profile | 所有用户的全局配置脚本 |
 | ~/.bash\_profile | 用户的个人启动文件 |
 | ~/.bash\_login | 若个人启动文件缺失，则读取此脚本 |
@@ -70,7 +70,7 @@ shell会话有两种类型，分别为`login shell`会话和`non-login shell`会
 **non-login shell 的启动文件**
 
 | 文件 | 内容 |
-| :--- | :--- |
+| :---: | :---: |
 | /etc/bash.bashrc | 所有用户的全局配置脚本 |
 | ~/.bashrc | 用户的个人启动文件 |
 
