@@ -12,5 +12,6 @@
 * [用户权限](untitled-2.md)
 * [进程管理](jin-cheng-guan-li.md)
 * [环境](untitled-1.md)
-* [Untitled](untitled-4.md)
+* [vi 和 vim 编辑器](untitled-4.md)
+* [shell提示符](shell-ti-shi-fu.md)
 
