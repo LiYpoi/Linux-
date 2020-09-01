@@ -14,4 +14,5 @@
 * [环境](untitled-1.md)
 * [vi 和 vim 编辑器](untitled-4.md)
 * [shell提示符](shell-ti-shi-fu.md)
+* [软件包管理](ruan-jian-bao-guan-li.md)
 
